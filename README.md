@@ -9,7 +9,7 @@ I hope to be one of the few selected to receive the full scholarship to the AI P
 
 #### Overview: 
 
-1. Welcome to the AI in Business Scholarhip 
+1. Welcome to the AI in Business Scholarship 
 2. Introduction to AI in Business 
 3. Creating a Dataset 
 4. Build a Model 
